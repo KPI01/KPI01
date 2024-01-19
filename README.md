@@ -57,10 +57,4 @@ Other things that I like a lot is exercising, I try to do it 6 times a week, spe
   <img src="https://skillicons.dev/icons?i=postman" height="35" alt="Postman"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
-###
