@@ -1,17 +1,66 @@
-<h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">A student passionate of web development. Aspiring to become a Full-Stack Developer</h3>
+# Hi there! 👋
 
-- 🌱 I’m currently learning **basis of Full-Stack Development**
+I'm Jorge and I'm a system's engineer student at Bicentennial University of Aragua, Venezuela that really loves to code.🤓
 
-- 💬 Ask me about **web development**
+## About me
 
-- 📫 How to reach me **jorgelurd11@outlook.com**
+Somethings about me are that I really enjoy developing things with React (currently learning it with Typescript) and Python. I like to continually learn new things and technologies, I think we should take the opportunity every day to learn.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jorgeramirez2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgeramirez2001" height="30" width="40" /></a>
-</p>
+Currently I'm working on [my personal portfolio](https://github.com/KPI01/kpi.dev) and I working on another project (it still on planning yet)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+> [!NOTE]
+> I think I should develop a serious project with Python🤔
 
+Other things that I like a lot is exercising, I try to do it 6 times a week, specially I really love going out to run and do some street workout. I do love also to read some books and hear a lot of music (specially urban music and rock as you can see below)
+
+## Skills
+
+### Language
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="Javascript"  />
+  <img width="10">
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React"  />
+  <img width="10">
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="Typescript"  />
+  <img width="10">
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="Python"  />
+  <img width="10">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js"  />
+  <img width="10">
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="PHP"  />
+</div>
+
+### Frameworks
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="Express.js"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="Bootstrap"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind CSS"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sass" height="35" alt="Sass"  />
+</div>
+
+### Techs & Programs
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="Github"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="Postman"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+</div>
+
+###
