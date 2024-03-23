@@ -6,7 +6,7 @@ I'm Jorge and I'm a system's engineer student at Bicentennial University of Arag
 
 Somethings about me are that I really enjoy developing things with React (currently learning it with Typescript) and Python. I like to continually learn new things and technologies, I think we should take the opportunity every day to learn.
 
-Currently I'm working on [my personal portfolio](https://github.com/KPI01/kpi.dev) and I working on another project (it still on planning yet)
+Currently I'm working on [my personal portfolio]([https://github.com/KPI01/kpi.dev](https://jlrd.notion.site/dccc6adb123049bea9c95235ecc7ea31)) and I working on another project (it still on planning yet)
 
 > [!NOTE]
 > I think I should develop a serious project with Python🤔
